@@ -10,7 +10,8 @@ This is a simple console-based implementation of the classic **Pac-Man** game wr
 - ASCII-based rendering of the map, player (X), food (·), and enemies (e.g., G)
 - Basic movement and collision system
 - Simple enemy behavior (optional)
-
+- Selective difficulty (Easy,Normal,Hard)
+- Selective heart numbers (❤️)
 ---
 
 ## 📷 Demo
